@@ -1,4 +1,4 @@
-# PubMed-Agenta# PubMed Research Agent 🧬
+# PubMed Research Agent 🧬
 
 An intelligent biomedical research assistant powered by Google's ADK Agents framework and Gemini 2.0 Flash, designed to make scientific literature search and analysis more efficient and accessible.
 
